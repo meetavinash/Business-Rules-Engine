@@ -1,0 +1,7 @@
+C:\Users\M1047675\Source\Repos\BusinessRulesEngine\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\BusinessRulesEngine.exe.config
+C:\Users\M1047675\Source\Repos\BusinessRulesEngine\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\BusinessRulesEngine.exe
+C:\Users\M1047675\Source\Repos\BusinessRulesEngine\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\BusinessRulesEngine.pdb
+C:\Users\M1047675\Source\Repos\BusinessRulesEngine\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\BusinessRulesEngine.csproj.CoreCompileInputs.cache
+C:\Users\M1047675\Source\Repos\BusinessRulesEngine\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\BusinessRulesEngine.exe
+C:\Users\M1047675\Source\Repos\BusinessRulesEngine\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\BusinessRulesEngine.pdb
+C:\Users\M1047675\Source\Repos\BusinessRulesEngine\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\BusinessRulesEngine.csprojAssemblyReference.cache
